@@ -364,7 +364,7 @@ nav ul li .log p {
     margin-top: 0;
   }
   nav {
-    height: 13vh;
+    height: 10vh;
   }
   nav ul {
     display: flex;
@@ -403,7 +403,7 @@ nav ul li .log p {
 .search-box input {
     margin-left: 0;
     margin-top: 0.5rem;
-    background:transparent;
+    background-color:transparent;
 }
 
 .search-img,
