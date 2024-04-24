@@ -390,7 +390,7 @@ nav ul li .log p {
     background-color: grey;
     width: 100%;
     position: absolute;
-    top: 80px;
+    top:10px;
     z-index: 100;
   }
  
