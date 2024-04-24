@@ -387,7 +387,8 @@ nav ul li .log p {
     flex-direction: column;
     margin: 0 !important;
     padding: 0 !important;
-    background-color: grey;
+    background-color: black;
+    color:white!important;
     width: 100%;
     position: absolute;
     top:70px;
